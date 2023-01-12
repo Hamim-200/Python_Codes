@@ -2,25 +2,25 @@
 # while logica_part:
 #     statement
 
-# n = 1
-# while n <= 10:
-#     print(n)
-#     n = n+1
+n = 1
+while n <= 10:
+    print(n)
+    n = n+1
 
 
 # 1+2+3+4+5....
 
-# n = 10
-# result = n*(n+1)/2
-# print(result)
+n = 5
+result = n*(n+1)/2
+print(result)
 
 
-# n = 1
-# sum = 0
-# while n <= 5:
-#     sum = sum+n
-#     n = n+1
-# print(sum)
+n = 1
+sum = 0
+while n <= 5:
+    sum = sum+n
+    n = n+1
+print(sum)
 
 
 # FOR LOOP
